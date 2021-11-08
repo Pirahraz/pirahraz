@@ -1,11 +1,11 @@
 ### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=pirahraz&show_icons=true">
 
-# Merhaba, ben Mert Cobanov! 
+# Merhaba, ben Pirahraz! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pirahraz" alt="cobanov" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/pirahraz)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/pirahraz)
+[![](https://img.shields.io/twitter/follow/pirahraz?style=social)](https://www.twitter.com/pirahraz)
+[![](https://img.shields.io/github/followers/pirahraz?style=social)](https://www.github.com/pirahraz)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/pirahraz)
